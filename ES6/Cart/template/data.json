@@ -1,0 +1,32 @@
+{
+  "products": {
+    "Veg biriyani": {
+      "price": "199",
+      "item": "veg"
+    },
+    "Sweet Corn Soup": {
+      "price": "50",
+      "item": "veg"
+    },
+    "Corn fried Rice": {
+      "price": "112",
+      "item": "veg"
+    },
+    "Orange Juice": {
+      "price": "50",
+      "item": "veg"
+    },
+    "Aloo Ticki": {
+      "price": "89",
+      "item": "veg"
+    },
+    "Veg Rolls": {
+      "price": "62",
+      "item": "veg"
+    },
+    "Pasta": {
+      "price": "120",
+      "item": "veg"
+    }
+  }
+}

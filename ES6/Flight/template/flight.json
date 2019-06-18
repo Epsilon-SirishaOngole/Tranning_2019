@@ -1,0 +1,32 @@
+{
+  "flight": {
+    "Go Air:6E-149": {
+      "arival": "12:00",
+      "depart": "15:00"
+    },
+    "Indigo:6E-136": {
+      "arival": "1:00",
+      "depart": "2:30"
+    },
+    "Spicejet:SG-136": {
+      "arival": "2:00",
+      "depart": "4:30"
+    },
+    "Vistara:6E-2034": {
+      "arival": "5:00",
+      "depart": "8:30"
+    },
+    "AirAsia:I5-741": {
+      "arival": "10:00",
+      "depart": "15:30"
+    },
+    "Air India:AI-804": {
+      "arival": "10:00",
+      "depart": "19:30"
+    },
+    "Go Air:G8-287": {
+      "arival": "15:00",
+      "depart": "22:30"
+    }
+  }
+}

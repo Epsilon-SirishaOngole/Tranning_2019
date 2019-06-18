@@ -1,0 +1,50 @@
+﻿<html>
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../dist/css/bootstrap-v3.3.6.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../dist/css/style.min.css">
+</head>
+
+<body>
+    <h2 class="page-heading">Simple Shopping Cart</h2>
+
+    <div class="menu">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <h3>Filters</h3>
+                    <div class="each-filter">
+                        <h5>Dynamic range slider</h5>
+                        <div class="filter-con">
+                            <input id="slide_up" type="range" min=0 max=50 step=10 data-slider>
+                            <input id="slide_down" type="range" min=50 max=200 step=10 data-slider>
+                            <output id="count_up"></output><output id="count_down"></output>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="product-container">
+                        <!-- Menu List of items -->
+                        <div class="menu-list">
+                            <div class="panel panel-default" id="content1">
+                                <div class="panel-heading">Products</div>
+                                <div class="panel-body">
+                                    <div class="row" id="products-main">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- //Menu List of items -->
+                    </div>
+                    <div>
+            </div>
+        </div>
+    </div>
+ </div></div>
+
+    <script src="../dist/js/script.min.js"></script>
+</body>
+</html>
